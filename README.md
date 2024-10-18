@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Prasanth B from India 🇮🇳</h1>
-<h3 align="center">The Cloud DevOps Engineer </h3>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Prasanth B, Cloud DevOps Engineer </h1>
 
 #### 🌟 Overview
 As a working on various Cloud services and DevOps Tools, I specialize in automating infrastructure management, optimizing the development process, and ensuring seamless collaboration between development and operations teams.
@@ -20,6 +19,6 @@ As a working on various Cloud services and DevOps Tools, I specialize in automat
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS" width="40" height="40"/> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanth624&show_icons=true&hide=stars,issues" alt="prasanth624" /></p>
-[![](https://visitcount.itsvg.in/api?id=prasanth624&icon=0&color=0)](https://visitcount.itsvg.in)
+
 #### Let's Connect!
 Follow my projects here on GitHub. I'm always open to discussing new ideas, technologies, or collaboration opportunities!
