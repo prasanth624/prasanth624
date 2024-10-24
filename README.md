@@ -1,5 +1,8 @@
-<h1 align="center" style="font-size: 2em; margin: 0;">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Prasanth B</h1>
-<h1 align="center" style="font-size: 2em; margin: 0;">Cloud DevOps Engineer</h1>
+<div align="center">
+    <h1>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Prasanth B</h1>
+    <h1>Cloud DevOps Engineer<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+</div>
+
 
 #### 🌟 Overview
 As working on various Cloud services and DevOps Tools, I specialize in automating infrastructure management, optimizing the development process, and ensuring seamless collaboration between development and operations teams.
@@ -24,3 +27,7 @@ As working on various Cloud services and DevOps Tools, I specialize in automatin
 
 #### Let's Connect!
 Follow my projects here on GitHub. I'm always open to discussing new ideas, technologies, or collaboration opportunities!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
