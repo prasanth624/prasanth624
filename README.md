@@ -8,8 +8,8 @@ As working on various Cloud services and DevOps Tools, I specialize in automatin
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
-        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40"/>        
+        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="GitHub Actions" title="GitHub Actions" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>        
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" title="Helm" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" title="Grafana" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" title="Prometheus" width="40" height="40"/>
