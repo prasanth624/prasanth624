@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Prasanth B</h1>
-<h2 align="center">Cloud DevOps Engineer</h2>
+<h1 align="center" style="font-size: 2em; margin: 0;">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Prasanth B</h1>
+<h1 align="center" style="font-size: 2em; margin: 0;">Cloud DevOps Engineer</h1>
 
 #### 🌟 Overview
 As working on various Cloud services and DevOps Tools, I specialize in automating infrastructure management, optimizing the development process, and ensuring seamless collaboration between development and operations teams.
