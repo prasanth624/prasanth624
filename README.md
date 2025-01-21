@@ -3,7 +3,7 @@
 #### 🌟 Overview
 As working on various Cloud services and DevOps Tools, I specialize in Automating infrastructure, streamlining workflows, and bridging the gap between Development & Operations!
 
-#### Cloud DevOps Stack
+#### 🚀 Cloud DevOps Stack
 - **Cloud:** AWS, Azure, Digital Ocean
 - **Infrastructure as Code (IaC):** Terraform, Terragrunt 
 - **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Azure DevOps, Jenkins  
