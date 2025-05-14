@@ -1,19 +1,22 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Prasanth B, Cloud DevOps Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Prasanth B, AI Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 #### 🌟 Overview
-As working on various Cloud services and DevOps Tools, I specialize in Automating infrastructure, streamlining workflows, and bridging the gap between Development & Operations!
+Highly skilled AI Engineer with experience in designing scalable AI solutions, optimizing model performance, and integrating AI applications. Expertise in developing and deploying machine learning models, specializing in deep learning, natural language processing, automation, orchestration, security, and evaluating new technologies to drive efficiency and productivity.
 
-#### 🚀 Cloud DevOps Stack
-- **Cloud:** AWS, Azure, Digital Ocean
+
+#### 🚀 Tech Stack
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, Deep Learning, LLMs, NLP, RAG, Prompt Engineering, Keras, Model Deployment, Vector Databases
+- **Cloud:** AWS (Sagemaker, Lambda, S3, EC2, ELB), Azure, GCP
+- **Data Management:** Apache Airflow, Hadoop, Hive, MLflow, ETL pipelines, SQL
+- **Programming Languages:** Python, Golang, C++, Shell Scripting
 - **Infrastructure as Code (IaC):** Terraform, Terragrunt 
 - **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Azure DevOps, Jenkins  
-- **Containerization and Orchestration:** Kubernetes, ArgoCD, Docker, Helm  
+- **Containerization and Orchestration:** Kubernetes, ArgoCD, GitOps, Docker, Helm  
 - **Monitoring and Logging:** Prometheus, Grafana  
 - **Configuration Management:** Ansible, Puppet
 - **Web Servers:** Nginx
-- **Scripting:** Bash
-- **Version Control:** Git, GitHub  
-- **Operating Systems:** Linux (Ubuntu, CentOS, Red Hat)
+- **Version Control:** Git, GitHub, BitBucket 
+- **Operating Systems:** Linux (Ubuntu, Red Hat, Amazon Linux, CentOS), Windows
 
 
 <p align="left">
