@@ -19,7 +19,8 @@ Highly skilled AI and Cloud Engineer with experience in designing scalable AI so
 
 
 <p align="left">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>        
         <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
 <img src="https://camo.githubusercontent.com/fa46a7608ab776ac1e71c7be0696a824f295813d21f75475e11488216c2dcf1c/68747470733a2f2f7265646861742d7363686f6c6172732e6769746875622e696f2f6172676f63642d7475746f7269616c2f6172676f63642d7475746f7269616c2f5f696d616765732f6172676f63642d6c6f676f2e706e67" alt="ArgoCD" title="ArgoCD" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
