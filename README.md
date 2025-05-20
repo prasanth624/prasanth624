@@ -20,13 +20,11 @@ Highly skilled AI and Cloud Engineer with experience in designing scalable AI so
 
 <p align="left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit_learn" title="Scikit_learn" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" title="Keras" width="40" height="40"/>
-        <img src="https://brandfetch.com/langchain.com?view=library&library=default&collection=logos&asset=idqP6WQff2&utm_source=https%253A%252F%252Fbrandfetch.com%252Flangchain.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="LangChain" title="LangChain" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>    
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" title="Azure" width="40" height="40"/>            
-        <img src="https://brandfetch.com/mlflow.org?view=library&library=default&collection=logos&asset=idOeRd2gAI&utm_source=https%253A%252F%252Fbrandfetch.com%252Fmlflow.org&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="MLflow" title="Mlflow" width="40" height="40"/>  
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" title="Azure" width="40" height="40"/>                    
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache_Spark" title="Apache_Spark" width="40" height="40"/>  
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" title="Airflow" width="40" height="40"/>  
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" title="Hadoop" width="40" height="40"/>  
