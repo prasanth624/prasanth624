@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Bala Prasanth Babu, AI Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 Hi, I'm Bala Prasanth Babu, AI Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 #### 🌟 Overview
 Highly skilled AI and Cloud Engineer with experience in designing scalable AI solutions, optimizing model performance, and integrating AI applications. Expertise in developing and deploying machine learning models, specializing in deep learning, natural language processing, automation, orchestration, security, and evaluating new technologies to drive efficiency and productivity.
