@@ -1,13 +1,11 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Prasanth B, AI Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Prasanth B, Cloud DevOps Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 #### 🌟 Overview
-Highly skilled AI and Cloud Engineer with experience in designing scalable AI solutions, optimizing model performance, and integrating AI applications. Expertise in developing and deploying machine learning models, specializing in deep learning, natural language processing, automation, orchestration, security, and evaluating new technologies to drive efficiency and productivity.
+Highly skilled Cloud DevOps Engineer in designing and implementing scalable, secure, and high-performance cloud infrastructure. Strong expertise in automation, orchestration, CI/CD, containerization, and cloud-native solutions across AWS and Azure. Skilled in enabling seamless deployment of AI/ML applications into enterprise workflows, ensuring reliability, efficiency, and cost optimization, while consistently evaluating new technologies to drive efficiency and productivity.
 
 
 #### 🚀 Tech Stack
-- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, Deep Learning, LLMs, NLP, RAG, Keras, LoRA, QLoRA, Hugging Face, Vector Databases, Prompt Engineering, Model Deployment, LangChain
-- **Cloud:** AWS (Sagemaker, Lambda, S3, EC2, ELB), Azure, GCP
-- **Data Management:** Apache Airflow, Hadoop, Hive, MLflow, PySpark, ETL, SQL, FAISS, ChromaDB, Supabase
+- **Cloud:** AWS, Azure, GCP
 - **Programming Languages:** Python, Golang, C++, Shell, PowerShell, Javascript
 - **Infrastructure as Code (IaC):** Terraform, Terragrunt 
 - **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Azure DevOps, Jenkins  
@@ -16,6 +14,8 @@ Highly skilled AI and Cloud Engineer with experience in designing scalable AI so
 - **Version Control:** Git, GitHub, BitBucket
 - **Web Servers:** Nginx
 - **Operating Systems:** Linux (Ubuntu, Red Hat, Amazon Linux, CentOS), Windows
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, Deep Learning, LLMs, NLP, RAG, Keras, LoRA, QLoRA, Hugging Face, Vector Databases, Prompt Engineering, Model Deployment, LangChain
+- **Data Management:** Apache Airflow, Hadoop, Hive, MLflow, PySpark, ETL, SQL, FAISS, ChromaDB, Supabase
 
 
 <p align="left">
