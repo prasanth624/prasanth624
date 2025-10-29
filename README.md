@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Prasanth B, AI Engineer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Prasanth B<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 #### 🌟 Overview
-Highly skilled AI and Cloud Engineer in designing scalable AI solutions, optimizing model performance, and integrating AI applications into enterprise workflows. Expertise in developing and deploying machine learning models, specializing in deep learning, natural language processing, automation, orchestration, security, and evaluating new technologies to drive efficiency and productivity.
+Highly skilled Cloud DevOps-AI Engineer with expertise in designing and managing scalable, secure, and automated cloud infrastructures to support AI-driven applications and enterprise workflows. Experienced in CI/CD pipelines, containerization, orchestration, and infrastructure as code, ensuring efficient model deployment and operational excellence. Proficient in developing and optimizing machine learning models with a focus on deep learning, natural language processing, and system automation. Passionate about integrating emerging technologies to enhance reliability, scalability, and productivity across cloud environments.
 
 #### 🚀 Tech Stack
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, Deep Learning, LLMs, NLP, RAG, Keras, LoRA, QLoRA, Hugging Face, Vector Databases, Prompt Engineering, Model Deployment, LangChain
