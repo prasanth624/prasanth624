@@ -4,17 +4,13 @@
 Highly skilled Cloud DevOps-AI Engineer with expertise in designing and managing scalable, secure, and automated cloud infrastructures to support AI-driven applications and enterprise workflows. Experienced in CI/CD pipelines, containerization, orchestration, and infrastructure as code, ensuring efficient model deployment and operational excellence. Proficient in developing and optimizing machine learning models with a focus on deep learning, natural language processing, and system automation. Passionate about integrating emerging technologies to enhance reliability, scalability, and productivity across cloud environments.
 
 #### 🚀 Tech Stack
+
+- **Cloud:** AWS EC2, Azure VM, EKS, ECS, ELB, S3, EBS, RDS, DynamoDB, Bedrock, SNS, SQS, VPC, IAM, Route 53, Lambda, CloudFront, CloudWatch, AKS, Blob Storage, Azure SQL Database, Virtual Network, GCP, GKE, Cloudspanner
+- **DevOps:** Terraform, Kubernetes, Docker, Helm, Keda, Karpenter, GitOps, ArgoCD, CI/CD, GitHub Actions, Azure DevOps, Jenkins, Snyk, Ansible, Maven, Nginx, Nexus, Grafana, Prometheus, Firewall, Load Balancers, Istio, Rancher, Datadog, Shell(Bash), Powershell, Confluence, Jira, BitBucket
+- **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSL/TLS, SSH, VPN, CIDR, Subnetting, Routing, Firewalls, Load Balancers, VPC/VNet, Security Groups, Network ACLs, Kubernetes Networking
+- **Programming Languages:** Python, Golang, C++, Shell, PowerShell, Javascript
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Transformers, Deep Learning, LLMs, NLP, RAG, Keras, LoRA, QLoRA, Hugging Face, Vector Databases, Prompt Engineering, Model Deployment, LangChain
 - **Data Management:** Apache Airflow, Hadoop, Hive, MLflow, PySpark, ETL, SQL, FAISS, ChromaDB, Supabase
-- **Cloud:** AWS, Azure, GCP
-- **Programming Languages:** Python, Golang, C++, Shell, PowerShell, Javascript
-- **Infrastructure as Code (IaC):** Terraform, Terragrunt 
-- **Continuous Integration/Continuous Deployment (CI/CD):** GitHub Actions, Azure DevOps, Jenkins  
-- **Containerization and Orchestration:** Kubernetes, ArgoCD, GitOps, Docker, Helm  
-- **Monitoring and Logging:** Prometheus, Grafana  
-- **Version Control:** Git, GitHub, BitBucket
-- **Web Servers:** Nginx
-- **Operating Systems:** Linux (Ubuntu, Red Hat, Amazon Linux, CentOS), Windows
 
 <p align="left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/>
